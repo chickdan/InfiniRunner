@@ -4,4 +4,5 @@ Intermediate
 Saved
 *.sdf
 *.sln
-*.suo*.uasset
+*.suo
+Content/StarterContent/
